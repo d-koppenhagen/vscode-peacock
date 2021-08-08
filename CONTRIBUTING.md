@@ -61,6 +61,7 @@ Before you submit your Pull Request (PR) consider the following guidelines:
 - Push your fork to GitHub.
 - In GitHub, submit a Pull Request.
 - If we suggest changes then:
+
   - Make the required updates.
   - Rebase your fork and force push to your GitHub repository (this will update your Pull Request):
 
